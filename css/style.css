@@ -9,15 +9,15 @@
 background-color: red;
 border: 0 solid purple;
 padding: 20px;
-border: 20px; 
+border-width: 20px; 
 margin: 20px;
 }
 
 .box-two {
-background-color: blue;
+background-color: green;
 border: 0 solid yellow;
 padding: 20px;
-border: 20px; 
+border-width: 20px; 
 margin: 20px;
 }
 
